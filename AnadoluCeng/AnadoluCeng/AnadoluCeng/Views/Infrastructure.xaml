@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnadoluCeng.Views.Infrastructure"
+             Title="Altyapı">
+    <ListView x:Name="MylistView" HasUnevenRows="True" >
+        <ListView.ItemTemplate>
+
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="{Binding Name}" ></Label>
+                            <Label Text="{Binding Capacity}"></Label>
+                        </StackLayout>
+
+                        <Image Source="{Binding Source}" HeightRequest="50" WidthRequest="50" HorizontalOptions="EndAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnTap" NumberOfTapsRequired="2"></TapGestureRecognizer>
+                            </Image.GestureRecognizers>
+                        </Image>
+                        
+                    </StackLayout>
+
+                </ViewCell>
+            </DataTemplate>
+
+        </ListView.ItemTemplate>
+
+    </ListView>
+</ContentPage>

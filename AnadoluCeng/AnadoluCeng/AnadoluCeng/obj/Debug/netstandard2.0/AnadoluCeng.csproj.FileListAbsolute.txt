@@ -1,0 +1,17 @@
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\AnadoluCeng.csproj.CoreCompileInputs.cache
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\AnadoluCeng.AssemblyInfoInputs.cache
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\AnadoluCeng.AssemblyInfo.cs
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\Views\About.xaml.g.cs
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\Views\Courses.xaml.g.cs
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\Views\People.xaml.g.cs
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\bin\Debug\netstandard2.0\AnadoluCeng.deps.json
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\bin\Debug\netstandard2.0\AnadoluCeng.dll
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\bin\Debug\netstandard2.0\AnadoluCeng.pdb
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\Views\Infrastructure.xaml.g.cs
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\AnadoluCeng.dll
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\AnadoluCeng.pdb
+C:\Users\irfan\source\repos\AnadoluCeng\AnadoluCeng\AnadoluCeng\obj\Debug\netstandard2.0\AnadoluCeng.csprojAssemblyReference.cache
